@@ -1,26 +1,26 @@
-# 👋 Hi, I'm Said Mohamed Abdo
+# 👋 Salut, je suis Said Mohamed Abdo
 
-🎓 **MBA Full Stack Development Student**
-💻 **Junior Full Stack Developer**
+🎓 **Étudiant en MBA Full Stack Development**
+💻 **Développeur Full Stack Junior**
 📍 **Île-de-France, Saint-Denis (93200)**
 
-I design modern web applications with a focus on clean code, maintainability and user needs.
+Je conçois des applications web modernes en mettant l'accent sur un code propre, la maintenabilité et les besoins utilisateurs.
 
 ---
 
-## 🚀 About Me
+## 🚀 À propos de moi
 
-Passionate about web development, I build frontend and backend applications using modern technologies.
+Passionné par le développement web, je construis des applications frontend et backend en utilisant des technologies modernes.
 
-My objective is to create useful, structured and high-performance solutions while continuously improving my technical skills.
+Mon objectif est de créer des solutions utiles, structurées et performantes tout en améliorant continuellement mes compétences techniques.
 
-* 📅 Available from **September 2026**
-* 📍 Based in **Île-de-France**
-* 🔄 Alternance rhythm: **2 weeks in company / 1 week at school**
+* 📅 Disponible à partir de **septembre 2026**
+* 📍 Basé en **Île-de-France**
+* 🔄 Rythme d'alternance : **2 semaines en entreprise / 1 semaine à l'école**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Technique
 
 ### Frontend
 
@@ -36,19 +36,19 @@ My objective is to create useful, structured and high-performance solutions whil
 
 * PHP
 * Node.js
-* REST APIs
-* Client/Server Architecture
-* HTTP APIs
+* API REST
+* Architecture Client/Serveur
+* API HTTP
 
-### Databases
+### Bases de données
 
 * MySQL
 * MongoDB
 * SQL
 
-### Additional Languages
+### Langages supplémentaires
 
-* Python (Intermediate)
+* Python (Intermédiaire)
 * Java
 * C
 * YAML
@@ -58,9 +58,9 @@ My objective is to create useful, structured and high-performance solutions whil
 
 * Figma
 * Wireframes
-* User Interfaces
+* Interfaces Utilisateur
 
-### Tools
+### Outils
 
 * Docker
 * Tailwind CSS
@@ -72,95 +72,95 @@ My objective is to create useful, structured and high-performance solutions whil
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projets phares
 
 ### 📄 CV en ligne Express
 
-A platform to browse templates, create personalized CVs and export the final result.
+Une plateforme pour parcourir des templates, créer des CV personnalisés et exporter le résultat final.
 
-**Stack:** HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-### 📚 Digital Library
-
-A digital library management application allowing catalog administration and PDF consultation.
-
-**Stack:** React • JavaScript • MongoDB • API • Docker • Tailwind CSS
+**Stack :** HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
-### 📋 School Task Manager
+### 📚 Bibliothèque Numérique
 
-Application for managing courses, assignments, exams, grades and reminders.
+Une application de gestion de bibliothèque numérique permettant l'administration du catalogue et la consultation de PDF.
 
-**Stack:** HTML • CSS • JavaScript • Python • MySQL
+**Stack :** React • JavaScript • MongoDB • API • Docker • Tailwind CSS
+
+---
+
+### 📋 Gestionnaire de Tâches Scolaires
+
+Application de gestion des cours, devoirs, examens, notes et rappels.
+
+**Stack :** HTML • CSS • JavaScript • Python • MySQL
 
 ---
 
 ### 🌐 Portfolio – Abdoul-Rahman
 
-Development of a personal portfolio website showcasing profile, experience and projects.
+Développement d'un site portfolio personnel présentant le profil, l'expérience et les projets.
 
-**Stack:** HTML • CSS • JavaScript
+**Stack :** HTML • CSS • JavaScript
 
 ---
 
 ### 🌐 Portfolio – Merveil
 
-Personal portfolio website deployed online.
+Site portfolio personnel déployé en ligne.
 
-**Stack:** HTML • CSS • JavaScript • Render
+**Stack :** HTML • CSS • JavaScript • Render
 
 ---
 
 ### 🛒 CRM Commerce
 
-Marketplace dedicated to business CRM solutions with subscriptions, favorites and user management.
+Marketplace dédiée aux solutions CRM pour entreprises avec abonnements, favoris et gestion d'utilisateurs.
 
-**Stack:** React.js • JavaScript • Node.js • PostgreSQL • Redis
-
----
-
-## 💼 Professional Experience
-
-### Full Stack Development Internship – Teknosure
-
-**October 2025 – April 2026**
-
-Main activities:
-
-* Development of a digital library application with React, Node.js and MongoDB.
-* Client/server architecture and UI implementation.
-* Portfolio development and deployment.
-* Learning React, Vite, TypeScript and Next.js.
-* IT infrastructure inventory and data backup tasks.
-* Customer needs analysis and technical communication.
+**Stack :** React.js • JavaScript • Node.js • PostgreSQL • Redis
 
 ---
 
-## 🎓 Education
+## 💼 Expérience Professionnelle
+
+### Stage Développement Full Stack – Teknosure
+
+**Octobre 2025 – Avril 2026**
+
+Activités principales :
+
+* Développement d'une application de bibliothèque numérique avec React, Node.js et MongoDB.
+* Architecture client/serveur et implémentation d'interfaces utilisateur.
+* Développement et déploiement de portfolio.
+* Apprentissage de React, Vite, TypeScript et Next.js.
+* Inventaire de l'infrastructure informatique et tâches de sauvegarde de données.
+* Analyse des besoins clients et communication technique.
+
+---
+
+## 🎓 Formation
 
 * **MBA Full Stack Development** – My Digital School (2025–2027)
-* **Bachelor's Degree in Computer Science** – University of Djibouti (2022–2025)
-* **Scientific High School Diploma** (2021–2022)
+* **Licence en Informatique** – Université de Djibouti (2022–2025)
+* **Baccalauréat Scientifique** (2021–2022)
 
 ---
 
-## 🌍 Languages
+## 🌍 Langues
 
-* 🇫🇷 French (C1)
-* 🇬🇧 English (A2)
+* 🇫🇷 Français (C1)
+* 🇬🇧 Anglais (A2)
 * 🇩🇯 Afar (C1)
 
 ---
 
 ## 📫 Contact
 
-* 📧 **Email:** `smohamedabdo895@gmail.com`
-* 📱 **Phone:** `+33 7 66 43 52 07`
-* 🐙 **GitHub:** https://github.com/PandaCode13
+* 📧 **Email :** `smohamedabdo895@gmail.com`
+* 📱 **Téléphone :** `+33 7 66 43 52 07`
+* 🐙 **GitHub :** https://github.com/PandaCode13
 
 ---
 
-⭐ Thanks for visiting my portfolio repository.
+⭐ Merci d'avoir visité mon dépôt portfolio.
