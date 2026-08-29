@@ -1,10 +1,13 @@
-# 👋 Hola, soy Said Mohamed Abdo
+<div align="center">
 
-🎓 **Estudiante de MBA en Desarrollo Full Stack**
-💻 **Desarrollador Full Stack Junior**
+# 👋 Hola, soy **Said Mohamed Abdo**
+
+🎓 **Estudiante de MBA en Desarrollo Full Stack** &nbsp;•&nbsp; 💻 **Desarrollador Full Stack Junior**<br>
 📍 **Île-de-France, Saint-Denis (93200)**
 
-Diseño aplicaciones web modernas centrándome en código limpio, mantenibilidad y necesidades del usuario.
+> Diseño aplicaciones web modernas centrándome en código limpio, mantenibilidad y necesidades del usuario.
+
+</div>
 
 ---
 
@@ -14,153 +17,179 @@ Apasionado del desarrollo web, creo aplicaciones frontend y backend utilizando t
 
 Mi objetivo es crear soluciones útiles, estructuradas y de alto rendimiento mientras mejoro continuamente mis habilidades técnicas.
 
-* 📅 Disponible a partir de **septiembre de 2026**
-* 📍 Con sede en **Île-de-France**
-* 🔄 Ritmo de alternancia : **2 semanas en empresa / 1 semana en escuela**
+| ℹ️ | Detalle |
+|---|---|
+| 📅 | Disponible a partir de **septiembre de 2026** |
+| 📍 | Con sede en **Île-de-France** |
+| 🔄 | Ritmo de alternancia : **2 semanas en empresa / 1 semana en escuela** |
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
+<table align="center">
+<tr>
+<th>🌐 Frontend</th>
+<th>⚙️ Backend</th>
+<th>🗄️ Bases de datos</th>
+</tr>
+<tr>
+<td>
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Next.js
-* TypeScript
-* Vite
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Next.js
+- TypeScript
+- Vite
 
-### Backend
+</td>
+<td>
 
-* PHP
-* Node.js
-* APIs REST
-* Arquitectura Cliente/Servidor
-* APIs HTTP
+- PHP
+- Node.js
+- APIs REST
+- Arquitectura Cliente/Servidor
+- APIs HTTP
 
-### Bases de datos
+</td>
+<td>
 
-* MySQL
-* MongoDB
-* SQL
+- MySQL
+- MongoDB
+- SQL
 
-### Lenguajes adicionales
+</td>
+</tr>
+<tr>
+<th>➕ Lenguajes adicionales</th>
+<th>🎨 UI / UX</th>
+<th>🧰 Herramientas</th>
+</tr>
+<tr>
+<td>
 
-* Python (Intermedio)
-* Java
-* C
-* YAML
-* JSON
+- Python *(Intermedio)*
+- Java
+- C
+- YAML
+- JSON
 
-### UI / UX
+</td>
+<td>
 
-* Figma
-* Wireframes
-* Interfaces de Usuario
+- Figma
+- Wireframes
+- Interfaces de Usuario
 
-### Herramientas
+</td>
+<td>
 
-* Docker
-* Tailwind CSS
-* Render
-* WampServer
-* Visual Studio Code
-* Eclipse
-* Anaconda
+- Docker
+- Tailwind CSS
+- Render
+- WampServer
+- Visual Studio Code
+- Eclipse
+- Anaconda
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📂 Proyectos Destacados
 
 ### 📄 CV en línea Express
-
 Una plataforma para explorar plantillas, crear CV personalizados y exportar el resultado final.
 
-**Stack :** HTML • CSS • JavaScript • PHP • MySQL
+> **Stack :** HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
 ### 📚 Biblioteca Digital
-
 Una aplicación de gestión de biblioteca digital que permite la administración del catálogo y la consulta de PDF.
 
-**Stack :** React • JavaScript • MongoDB • API • Docker • Tailwind CSS
+> **Stack :** React • JavaScript • MongoDB • API • Docker • Tailwind CSS
 
 ---
 
 ### 📋 Gestor de Tareas Escolares
-
 Aplicación para gestionar cursos, tareas, exámenes, calificaciones y recordatorios.
 
-**Stack :** HTML • CSS • JavaScript • Python • MySQL
+> **Stack :** HTML • CSS • JavaScript • Python • MySQL
 
 ---
 
 ### 🌐 Portafolio – Abdoul-Rahman
-
 Desarrollo de un sitio web de portafolio personal que muestra perfil, experiencia y proyectos.
 
-**Stack :** HTML • CSS • JavaScript
+> **Stack :** HTML • CSS • JavaScript
 
 ---
 
 ### 🌐 Portafolio – Merveil
-
 Sitio web de portafolio personal desplegado en línea.
 
-**Stack :** HTML • CSS • JavaScript • Render
+> **Stack :** HTML • CSS • JavaScript • Render
 
 ---
 
 ### 🛒 CRM Commerce
-
 Marketplace dedicado a soluciones CRM para empresas con suscripciones, favoritos y gestión de usuarios.
 
-**Stack :** React.js • JavaScript • Node.js • PostgreSQL • Redis
+> **Stack :** React.js • JavaScript • Node.js • PostgreSQL • Redis
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### Prácticas de Desarrollo Full Stack – Teknosure
-
-**Octubre 2025 – Abril 2026**
+### 🏢 Prácticas de Desarrollo Full Stack – Teknosure
+**📅 Octubre 2025 – Abril 2026**
 
 Actividades principales :
 
-* Desarrollo de una aplicación de biblioteca digital con React, Node.js y MongoDB.
-* Arquitectura cliente/servidor e implementación de interfaces de usuario.
-* Desarrollo y despliegue de portafolios.
-* Aprendizaje de React, Vite, TypeScript y Next.js.
-* Inventario de infraestructura TI y tareas de respaldo de datos.
-* Análisis de necesidades del cliente y comunicación técnica.
+- ✅ Desarrollo de una aplicación de biblioteca digital con React, Node.js y MongoDB.
+- ✅ Arquitectura cliente/servidor e implementación de interfaces de usuario.
+- ✅ Desarrollo y despliegue de portafolios.
+- ✅ Aprendizaje de React, Vite, TypeScript y Next.js.
+- ✅ Inventario de infraestructura TI y tareas de respaldo de datos.
+- ✅ Análisis de necesidades del cliente y comunicación técnica.
 
 ---
 
 ## 🎓 Educación
 
-* **MBA en Desarrollo Full Stack** – My Digital School (2025–2027)
-* **Grado en Informática** – Universidad de Yibuti (2022–2025)
-* **Bachillerato Científico** (2021–2022)
+| 🗓️ Años | 📚 Diploma |
+|-----------|-----------|
+| 2025–2027 | **MBA en Desarrollo Full Stack** – My Digital School |
+| 2022–2025 | **Grado en Informática** – Universidad de Yibuti |
+| 2021–2022 | **Bachillerato Científico** |
 
 ---
 
 ## 🌍 Idiomas
 
-* 🇫🇷 Francés (C1)
-* 🇬🇧 Inglés (A2)
-* 🇩🇯 Afar (C1)
+| Idioma | Nivel |
+|--------|--------|
+| 🇫🇷 Francés | C1 |
+| 🇬🇧 Inglés | A2 |
+| 🇩🇯 Afar | C1 |
 
 ---
 
 ## 📫 Contacto
 
-* 📧 **Correo electrónico :** `smohamedabdo895@gmail.com`
-* 📱 **Teléfono :** `+33 7 66 43 52 07`
-* 🐙 **GitHub :** https://github.com/PandaCode13
+<div align="center">
+
+📧 **Correo electrónico :** `smohamedabdo895@gmail.com`<br>
+📱 **Teléfono :** `+33 7 66 43 52 07`<br>
+🐙 **GitHub :** [PandaCode13](https://github.com/PandaCode13)
 
 ---
 
-⭐ Gracias por visitar mi repositorio de portafolio.
+⭐ **¡Gracias por visitar mi repositorio de portafolio !**
+
+</div>
