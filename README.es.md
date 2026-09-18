@@ -3,7 +3,7 @@
 # 👋 Hola, soy **Said Mohamed Abdo**
 
 🎓 **Estudiante de MBA en Desarrollo Full Stack** &nbsp;•&nbsp; 💻 **Desarrollador Full Stack Junior**<br>
-📍 **Île-de-France, Saint-Denis (93200)**
+📍 **Île-de-France, Sevran-Beaudottes(93270)**
 
 > Diseño aplicaciones web modernas centrándome en código limpio, mantenibilidad y necesidades del usuario.
 
