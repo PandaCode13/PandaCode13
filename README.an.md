@@ -7,6 +7,8 @@
 
 > I design modern web applications with a focus on clean code, maintainability and user needs.
 
+[🇫🇷 Français](readme.md) &nbsp;•&nbsp; [🇬🇧 English](README.an.md) &nbsp;•&nbsp; [🇪🇸 Español](README.es.md) &nbsp;•&nbsp; [🇵🇹 Português](README.pt.md) &nbsp;•&nbsp; [🇯🇵 日本語](README.ja.md) &nbsp;•&nbsp; [🇦🇷 العربية](README.ar.md)
+
 </div>
 
 ---

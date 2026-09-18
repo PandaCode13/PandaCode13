@@ -8,6 +8,8 @@
 > Je conçois des applications web modernes en mettant l'accent sur un code propre,
 > la maintenabilité et les besoins utilisateurs.
 
+[🇫🇷 Français](readme.md) &nbsp;•&nbsp; [🇬🇧 English](README.an.md) &nbsp;•&nbsp; [🇪🇸 Español](README.es.md) &nbsp;•&nbsp; [🇵🇹 Português](README.pt.md) &nbsp;•&nbsp; [🇯🇵 日本語](README.ja.md) &nbsp;•&nbsp; [🇦🇷 العربية](README.ar.md)
+
 </div>
 
 ---

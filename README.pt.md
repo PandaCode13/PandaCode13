@@ -7,6 +7,8 @@
 
 > Projeto aplicações web modernas com foco em código limpo, manutenibilidade e necessidades do usuário.
 
+[🇫🇷 Français](readme.md) &nbsp;•&nbsp; [🇬🇧 English](README.an.md) &nbsp;•&nbsp; [🇪🇸 Español](README.es.md) &nbsp;•&nbsp; [🇵🇹 Português](README.pt.md) &nbsp;•&nbsp; [🇯🇵 日本語](README.ja.md) &nbsp;•&nbsp; [🇦🇷 العربية](README.ar.md)
+
 </div>
 
 ---

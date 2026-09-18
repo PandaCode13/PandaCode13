@@ -7,6 +7,8 @@
 
 > أصمم تطبيقات ويب حديثة مع التركيز على كتابة أكواد نظيفة وقابلة للصيانة وتلبية احتياجات المستخدمين.
 
+[🇫🇷 Français](readme.md) &nbsp;•&nbsp; [🇬🇧 English](README.an.md) &nbsp;•&nbsp; [🇪🇸 Español](README.es.md) &nbsp;•&nbsp; [🇵🇹 Português](README.pt.md) &nbsp;•&nbsp; [🇯🇵 日本語](README.ja.md) &nbsp;•&nbsp; [🇦🇷 العربية](README.ar.md)
+
 </div>
 
 ---

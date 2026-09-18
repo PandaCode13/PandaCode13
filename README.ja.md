@@ -7,6 +7,8 @@
 
 > クリーンなコード、保守性、ユーザーニーズに重点を置いたモダンなウェブアプリケーションを設計しています。
 
+[🇫🇷 Français](readme.md) &nbsp;•&nbsp; [🇬🇧 English](README.an.md) &nbsp;•&nbsp; [🇪🇸 Español](README.es.md) &nbsp;•&nbsp; [🇵🇹 Português](README.pt.md) &nbsp;•&nbsp; [🇯🇵 日本語](README.ja.md) &nbsp;•&nbsp; [🇦🇷 العربية](README.ar.md)
+
 </div>
 
 ---
